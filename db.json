@@ -2,6 +2,7 @@
   "posts": [
     {
       "type": "video",
+      "url": "https://www.youtube.com/watch?v=G5VQUDpK9Iw",
       "author": "nfried16",
       "date_posted": "01-01-2021",
       "title": "Good morning",
@@ -34,6 +35,7 @@
     },
     {
       "type": "video",
+      "url": "https://www.youtube.com/watch?v=NCvmQmfW_es",
       "author": "ola",
       "date_posted": "01-05-2021",
       "title": "I hate bubble sort",
